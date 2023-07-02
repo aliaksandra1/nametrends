@@ -3,6 +3,7 @@ Sometimes, strange questions pop into my head. For example, I've been wondering 
 Data Sources:
 
 UK Baby Names Data: The dataset on baby names in the UK was obtained from a library in the R language, authored and maintained by Mine Çetinkaya-Rundel.
+
 USA Baby Names Data: The dataset on baby names in the USA was sourced from Kaggle (https://www.kaggle.com/datasets/donkea/ssa-names-1910-2021).
 Copyright for the images: instagram.com/benmornin
 
